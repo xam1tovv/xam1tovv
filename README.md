@@ -1,4 +1,5 @@
-Hi, I'm Hlib Shvachko👋:
+# Hi, I'm Hlib Shvachko👋
+
 💻 Currently focused on actively learning ASP.NET and Blazor through hands-on project development.<br><br>⚙️ Building REST APIs and practicing Clean Architecture to write scalable and maintainable backend applications.<br><br>🤝 Open to collaboration and new opportunities — happy to contribute as a Backend Developer.
 
 
