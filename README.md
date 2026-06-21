@@ -4,11 +4,7 @@
 
 💻 Currently focused on actively learning ASP.NET and Blazor through hands-on project development.<br><br>⚙️ Building REST APIs and practicing Clean Architecture to write scalable and maintainable backend applications.<br><br>🤝 Open to collaboration and new opportunities — happy to contribute as a Backend Developer.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/glebopg2) 
-
-# 💻 My Tech Stack Adventure
+## 💻 My Tech Stack Adventure
 
 
 <strong style="font-size:22px;">⚙️ Tools</strong>
@@ -51,5 +47,8 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shvachkogleb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/glebopg2) 
 
 
